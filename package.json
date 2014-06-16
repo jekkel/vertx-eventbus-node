@@ -10,6 +10,6 @@
     "main": "index",
     "description": "VertXBus for node",
     "dependencies": {
-        "sockjs-client-ws": "*"
+        "sockjs-client-ws": "git+https://github.com/yourcelf/sockjs-client-node.git#0b13f35afd2b00f05689b3a37d7bc8f66679bc28"
     }
 }
